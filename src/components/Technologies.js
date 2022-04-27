@@ -1,7 +1,7 @@
 const Technologies = () =>{
     return(
       <div>
-        <h2>Hello from Technologies</h2>
+        <h1>Hello from Technologies</h1>
       </div>
       )
   }
