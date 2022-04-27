@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <HeaderFront/>
-      <Technologies/>
+      <Technologies name='Almat' age='30'/>
       <Yandex/> 
     </div>
   );
