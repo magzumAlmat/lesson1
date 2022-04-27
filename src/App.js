@@ -9,9 +9,11 @@ import Technologies from './components/Technologies';
 
 
 function App() {
+ 
   return (
     <div className="App">
       <HeaderFront/>
+      
       <Technologies name='Almat' age='30'/>
       <Yandex/> 
     </div>
